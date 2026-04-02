@@ -24,23 +24,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Sajeeshalexandar&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->&label=Profile%20views&color=0e75b6&style=flat" alt="sajeeshalexandar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajeeshalexandar" alt="sajeeshalexandar" /></a> </p>
-
-- 🔭 I’m currently working on **IoT framework for LPG optimization**
-
-- 🌱 I’m currently learning **python full-stack**
-
-- 👨‍💻 All of my projects are available at [sajeesh-alexandar-portfolio.vercel.app](sajeesh-alexandar-portfolio.vercel.app)
-
-- 💬 Ask me about **frontend ideas and concepts**
-
-- 📫 How to reach me **alexandersajeesh@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1O9DttDtiCsNEBPHJa5zyYCt0mrDRnWn_/view?usp=drivesdk](https://drive.google.com/file/d/1O9DttDtiCsNEBPHJa5zyYCt0mrDRnWn_/view?usp=drivesdk)
-
-- ⚡ Fun fact **I love to chat with funny guys like me..!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
